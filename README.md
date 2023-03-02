@@ -1,7 +1,6 @@
 # Social Audio - React Frontend
 
 This project is the frontend for a social media platform that allows users to share and discover audio clips. The frontend is built using React, a popular JavaScript library for building user interfaces. The backend for this project is located in a separate repository.
-Features
 
 ### Some of the key features of this application include:
 
