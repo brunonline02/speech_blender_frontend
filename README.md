@@ -19,7 +19,7 @@ Once you have Node.js installed, you can clone this repository to your local mac
     npm install
     npm run dev
 
-This will install all the necessary dependencies and start the development server. You should be able to view the application in your web browser at http://localhost:8080.
+This will install all the necessary dependencies and start the development server. You should be able to view the application in your web browser at http://localhost:5173.
 
 ### Backend Link
 
